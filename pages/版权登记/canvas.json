@@ -1122,7 +1122,7 @@
                         }
                       },
                       "labelTextSize": "0.875rem",
-                      "rightColumn": 64,
+                      "rightColumn": 37,
                       "textSize": "0.875rem",
                       "widgetId": "jabdu9f16g",
                       "accentColor": "{{appsmith.theme.colors.primaryColor}}",
