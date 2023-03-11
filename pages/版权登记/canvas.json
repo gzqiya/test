@@ -1246,7 +1246,7 @@
               "borderWidth": "0",
               "labelTextSize": "0.875rem",
               "backgroundColor": "#FFFFFF",
-              "rightColumn": 50,
+              "rightColumn": 62,
               "dynamicHeight": "FIXED",
               "widgetId": "mvubsemxfo",
               "containerStyle": "card",
